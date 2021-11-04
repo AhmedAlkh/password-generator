@@ -1,13 +1,10 @@
-# Password Generator Starter Code
+# Password Generator
 
 ## Updates
-- Added function for already existing generatePassword variable
-- Added password length selection prompt that is functioning
-- Added password character prompts that appear but do not yet function. (uppercase,lowercase,numbers, special characters)
+- Added validation messages for the 4 character type prompts
+- Added global variables to declare all 4 character types
 
 ## To Do
-- Add validation messages for the 4 character type prompts
-- Add in all character types
+- link the charactor types so that if they are confirmed to be used, they are included in the password
 - Add "Password is being generated" message when all password criteria has been selected
 - Generate "return" password to text box
-
